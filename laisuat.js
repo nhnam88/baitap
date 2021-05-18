@@ -1,0 +1,5 @@
+let tienvay = +prompt("So tien vay")
+let laisuat = +prompt("Lai suat")
+let sonamvai = +prompt("So nam can vai")
+sum = tienvay + (laisuat*sonamvai)
+alert("So tien can tra sau "+sonamvai+" nam = " +sum)
